@@ -4,10 +4,19 @@
 }
 
 .cls-2 {
-  fill: none;
+  /* fill: none; */
   fill-rule: evenodd;
 }
 
 .cls-3 {
   opacity: 0.54;
+}
+
+.color-selector {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+#shadow {
+  pointer-events: none;
 }
